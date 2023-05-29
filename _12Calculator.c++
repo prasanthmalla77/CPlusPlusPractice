@@ -3,9 +3,9 @@ using namespace std;
 
 int main(){
     int m,n;
-    cout<<"enter the value of m : ";
+    cout<<"enter the value of m :";
     cin>>m;
-    cout<<"enter the value of n : ";
+    cout<<"enter the value of n :";
     cin>>n;
     char button;
     cout<<"select one option: a.Add, b.Sub, c.Multiply, d.Division";
@@ -25,7 +25,6 @@ int main(){
             break;
         default:
         cout<<"naku anthe vacchu (LOL)";
-        
     }
     
 }
