@@ -16,9 +16,5 @@ int main(){
         if(i==n){
             cout<<"prime"<<endl;
         }
-    
-
-
-
     return 0;
 }
